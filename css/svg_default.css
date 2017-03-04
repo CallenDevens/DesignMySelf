@@ -1,0 +1,51 @@
+
+.part_1_fill{
+	fill:#AAAAAA;
+}
+.part_2_fill
+{
+    fill:#444444;
+}
+.part_3_fill
+{
+    fill:#000000;
+}
+.part_1_stroke
+{ 
+   stroke :#000000;
+}
+.part_2_stroke
+{ 
+   stroke :#222222;
+}
+.part_3_stroke
+{
+    stroke:#777777; 
+}
+
+
+.stripe_1,.stripe_2,.collar,.cuff,.main_body,.hood,.sleeves,.rib,.pocket,.hood_lining,.rib_1,.rib_2,.rib_3{
+	fill:#c0c0c0;
+	stroke:none;
+}
+#frame_front_center, #frame_front_pocket_left, #frame_front_pocket_right{
+	stroke:none;
+}
+
+@font-face {
+    font-family: Collegiate;
+    src: url(../fonts/CollegiateHeavyOutline.ttf);
+}
+@font-face {
+    font-family: CollegeBold;
+    src: url(../fonts/collegeb.ttf);
+}
+@font-face {
+    font-family: AthleticScript;
+    src: url(../fonts/AthleticScript.ttf);
+}
+
+@font-face {
+    font-family:NcaaLouisville;
+    src: url(../fonts/NcaaLouisville.ttf);
+}

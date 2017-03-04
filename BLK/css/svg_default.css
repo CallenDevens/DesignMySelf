@@ -1,0 +1,28 @@
+
+
+.part_1,.part_2,.part_3,.part_4
+{
+    fill:#EEEEEE;
+}
+
+#frame_front_center, #frame_front_pocket_left, #frame_front_pocket_right{
+	stroke:none;
+}
+
+@font-face {
+    font-family: Collegiate;
+    src: url(../fonts/CollegiateHeavyOutline.ttf);
+}
+@font-face {
+    font-family: CollegeBold;
+    src: url(../fonts/collegeb.ttf);
+}
+@font-face {
+    font-family: AthleticScript;
+    src: url(../fonts/AthleticScript.ttf);
+}
+
+@font-face {
+    font-family:NcaaLouisville;
+    src: url(../fonts/NcaaLouisville.ttf);
+}

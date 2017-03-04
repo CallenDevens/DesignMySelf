@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 16.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="376.977px" height="300px" viewBox="0 0 376.977 300" enable-background="new 0 0 376.977 300"
+	 xml:space="preserve">
+	 
+<g class="part_1_fill part_2_stroke">
+    <g>
+    	<polygon  stroke-width="7.13" points="85.557,214.35 85.557,179.146 60.137,179.146 60.137,190.88 
+    		34.716,190.88 34.716,167.41 65.22,167.41 85.557,148.635 85.557,115.779 65.22,97.003 29.632,97.003 9.296,115.779 9.296,132.206 
+    		34.716,132.206 34.716,120.473 60.137,120.473 60.137,143.941 29.632,143.941 9.296,162.717 9.296,214.35 	"/>
+    </g>
+    <path  stroke-width="7.13" d="M129.135,120.473h25.421v70.407h-25.421V120.473z M159.639,214.35
+    	l20.336-18.775v-79.795l-20.336-18.775h-35.589l-20.336,18.775v79.795l20.336,18.775H159.639z"/>
+    <polygon stroke-width="7.13" points="261.684,214.35 261.684,190.88 248.974,190.88 
+    	248.974,97.003 223.554,97.003 210.843,114.438 210.843,132.206 223.554,132.206 223.554,190.88 210.843,190.88 210.843,214.35 "/>
+    <polygon stroke-width="7.13" points="343.392,214.35 343.392,190.88 330.682,190.88 
+    	368.812,120.473 368.812,97.003 292.551,97.003 292.551,132.206 317.972,132.206 317.972,120.473 343.392,120.473 305.261,190.88 
+    	292.551,190.88 292.551,214.35 "/>
+</g>
+
+<g class="part_2_stroke">
+	<line fill="none"   x1="61.195" y1="145.367" x2="85.354" y2="145.367"/>
+	<line fill="none"   stroke-width="7.13" stroke-miterlimit="10" x1="61.195" y1="143.953" x2="85.354" y2="143.953"/>
+	<line fill="none"   x1="104.395" y1="143.953" x2="128.555" y2="143.953"/>
+	<line fill="none"   stroke-width="7.13" stroke-miterlimit="10" x1="104.395" y1="145.367" x2="128.555" y2="145.367"/>
+	<line fill="none"   x1="9.946" y1="165.988" x2="52.487" y2="165.988"/>
+	<line fill="none"   stroke-width="7.13" stroke-miterlimit="10" x1="9.946" y1="167.377" x2="52.487" y2="167.377"/>
+	<line fill="none"   x1="103.341" y1="165.988" x2="128.555" y2="165.988"/>
+	<line fill="none"   stroke-width="7.13" stroke-miterlimit="10" x1="103.341" y1="167.377" x2="128.555" y2="167.377"/>
+	<line fill="none"   x1="155.218" y1="145.367" x2="179.378" y2="145.367"/>
+	<line fill="none"   stroke-width="7.13" stroke-miterlimit="10" x1="155.218" y1="143.953" x2="179.378" y2="143.953"/>
+	<line fill="none"   x1="154.164" y1="165.988" x2="179.378" y2="165.988"/>
+	<line fill="none"   stroke-width="7.13" stroke-miterlimit="10" x1="154.164" y1="167.377" x2="179.378" y2="167.377"/>
+	<line fill="none"   x1="225.101" y1="143.953" x2="249.261" y2="143.953"/>
+	<line fill="none"   stroke-width="7.13" stroke-miterlimit="10" x1="225.101" y1="145.367" x2="249.261" y2="145.367"/>
+	<line fill="none"   x1="224.046" y1="165.988" x2="249.261" y2="165.988"/>
+	<line fill="none"   stroke-width="7.13" stroke-miterlimit="10" x1="224.046" y1="167.377" x2="249.261" y2="167.377"/>
+	<line fill="none"   stroke-width="7.13" x1="330.56" y1="145.367" x2="354.72" y2="145.367"/>
+	<line fill="none"   stroke-width="4" stroke-miterlimit="10" x1="330.56" y1="143.953" x2="354.72" y2="143.953"/>
+	<line fill="none"   x1="318.07" y1="165.988" x2="343.284" y2="165.988"/>
+	<line fill="none"   stroke-width="7.13" stroke-miterlimit="10" x1="318.07" y1="167.377" x2="343.284" y2="167.377"/>
+</g>
+<g class="part_2_fill">
+	<path  stroke="#000000" d="M376.476,49.499c0,17.09-12.169,30.947-27.18,30.947H27.679
+		c-15.012,0-27.18-13.857-27.18-30.947V31.446C0.5,14.355,12.668,0.5,27.679,0.5h321.617c15.011,0,27.18,13.855,27.18,30.946V49.499z"/>
+</g>
+
+<text class="part_3_fill" transform="matrix(1.0102 0 0 1 20.0872 66.9238)"  font-family="CollegeBold" font-size="78.5683">CLASS OF</text>
+<text id="svg_editable_text" x="188" y="210" dominant-baseline="hanging" font-family="CollegeBold" text-anchor="middle" fill="red" font-size="78.5683">ABCD</text>
+</svg>
